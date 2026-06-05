@@ -4,8 +4,8 @@ This repository contains the 3D model files and reference images for the Spaceag
 
 ## Files
 
-- [Spaceagon 2026.step](file:///c:/Users/danni/OneDrive/Documents/Tildagon/SpaceagonCase/Spaceagon%202026.step): The CAD design file in STEP format.
-- [PXL_20260605_094737155.jpg](file:///c:/Users/danni/OneDrive/Documents/Tildagon/SpaceagonCase/PXL_20260605_094737155.jpg): Reference image showing the case.
+- [Spaceagon 2026.step](Spaceagon%202026.step): The CAD design file in STEP format.
+- [PXL_20260605_094737155.jpg](PXL_20260605_094737155.jpg): Reference image showing the case.
 
 ## Preview
 
