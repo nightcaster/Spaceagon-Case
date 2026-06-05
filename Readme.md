@@ -12,7 +12,3 @@ This repository contains the 3D model files and reference images for the Spaceag
 
 ### Reference Photo
 ![Spaceagon Case Photo](PXL_20260605_094737155.jpg)
-
-### 3D Model Screenshot
-![Spaceagon Case 3D Model](Screenshot%202026-06-05%20114726.png)
-
