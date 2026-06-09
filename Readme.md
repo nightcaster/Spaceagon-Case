@@ -4,7 +4,9 @@ This repository contains the 3D model files and reference images for the Spaceag
 
 ## Files
 
-- [frame-case-v8.step](frame-case-v8.step): The CAD design file in STEP format.
+- [frame-case-v9.step](frame-case-v9.step): The CAD design file in STEP format.
+- [frame-case-v9-no-baffles.step](frame-case-v9-no-baffles.step): A variant of the case with reduced light baffles between spokes.
+- [case-bottom-v9.step](case-bottom-v9.step): The bottom case.
 
 ## Preview
 
