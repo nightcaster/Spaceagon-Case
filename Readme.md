@@ -20,7 +20,7 @@ This repository contains the 3D model files and reference images for the Spaceag
 ![Base](v8-base.jpg)
 
 ### Case (No Baffles)
-![Case (No Baffles)](v5-case-no-baffles.jpg)
+![Case (No Baffles)](v9-case-no-baffles.jpg)
 This version of the case does not have as tall internal ribs to act as light baffles between the leds.
 If the artwork does not mix well with the baffles, then this version may be preferable.
 
