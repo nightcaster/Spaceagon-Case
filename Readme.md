@@ -4,7 +4,7 @@ This repository contains the 3D model files and reference images for the Spaceag
 
 ## Files
 
-- [frame-case-v7.step](frame-case-v7.step): The CAD design file in STEP format.
+- [frame-case-v8.step](frame-case-v8.step): The CAD design file in STEP format.
 
 ## Preview
 
@@ -15,7 +15,7 @@ This repository contains the 3D model files and reference images for the Spaceag
 ![Case](v5-case.jpg)
 
 ### Base
-![Base](v7-base.jpg)
+![Base](v8-base.jpg)
 
 ### Case (No Baffles)
 ![Case (No Baffles)](v5-case-no-baffles.jpg)
